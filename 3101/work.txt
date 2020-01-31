@@ -1,0 +1,31 @@
+Script started on Friday 31 January 2020 11:47:57 AM IST
+]0;s4c1@proxysrvr: ~/ceccs18c20/cs232/3101[01;32ms4c1@proxysrvr[00m:[01;34m~/ceccs18c20/cs232/3101[00m$ ls
+work.txt
+]0;s4c1@proxysrvr: ~/ceccs18c20/cs232/3101[01;32ms4c1@proxysrvr[00m:[01;34m~/ceccs18c20/cs232/3101[00m$ gedio[Kt sort
+]0;s4c1@proxysrvr: ~/ceccs18c20/cs232/3101[01;32ms4c1@proxysrvr[00m:[01;34m~/ceccs18c20/cs232/3101[00m$ sort [K[K[K[K[Ksort -n sort
+
+12
+23
+27
+45
+78
+345
+432
+]0;s4c1@proxysrvr: ~/ceccs18c20/cs232/3101[01;32ms4c1@proxysrvr[00m:[01;34m~/ceccs18c20/cs232/3101[00m$ gedit
+]0;s4c1@proxysrvr: ~/ceccs18c20/cs232/3101[01;32ms4c1@proxysrvr[00m:[01;34m~/ceccs18c20/cs232/3101[00m$ cut -f3 [K[K[K[K[K[K[K[Kgedit cut1
+]0;s4c1@proxysrvr: ~/ceccs18c20/cs232/3101[01;32ms4c1@proxysrvr[00m:[01;34m~/ceccs18c20/cs232/3101[00m$ cut -f3 cut1
+c
+]0;s4c1@proxysrvr: ~/ceccs18c20/cs232/3101[01;32ms4c1@proxysrvr[00m:[01;34m~/ceccs18c20/cs232/3101[00m$ cut -f1 cut1
+a
+]0;s4c1@proxysrvr: ~/ceccs18c20/cs232/3101[01;32ms4c1@proxysrvr[00m:[01;34m~/ceccs18c20/cs232/3101[00m$ uname
+Linux
+]0;s4c1@proxysrvr: ~/ceccs18c20/cs232/3101[01;32ms4c1@proxysrvr[00m:[01;34m~/ceccs18c20/cs232/3101[00m$ ps
+  PID TTY          TIME CMD
+ 7121 pts/5    00:00:00 bash
+ 7202 pts/5    00:00:00 ps
+]0;s4c1@proxysrvr: ~/ceccs18c20/cs232/3101[01;32ms4c1@proxysrvr[00m:[01;34m~/ceccs18c20/cs232/3101[00m$ who
+s4c1     tty7         2020-01-31 09:23 (:0)
+]0;s4c1@proxysrvr: ~/ceccs18c20/cs232/3101[01;32ms4c1@proxysrvr[00m:[01;34m~/ceccs18c20/cs232/3101[00m$ exit
+exit
+
+Script done on Friday 31 January 2020 11:52:41 AM IST

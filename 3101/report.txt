@@ -1,0 +1,108 @@
+CEC CS 18 C20 31-01-2020
+GOPUDAS K M
+
+
+--------------------------------
+#1: Sort a text file
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+
+	sort -dr sort.txt > sorted.txt
+
+
+Input: 
+---------------
+
+	# Unsorted file 
+	sort.txt 	
+
+--------------------------------
+Output: 
+
+	# Sorted file
+	sorted.txt
+
+-------------------
+Remarks if any:
+
+
+
+
+-------------------------------------
+-------------------------------------
+
+#2: cut a letter in a text
+
+Command/Shell script/Program name
+---------------------------------
+     cut -f3 cut1.txt
+	 
+
+
+Input: 
+---------------
+
+	# text file #1
+	cut1.txt	
+
+--------------------------------
+Output: 
+
+	# text file with lines numbered
+	numbered.txt
+
+-------------------
+Remarks if any:
+
+
+-------------------------------------
+-------------------------------------
+
+#3: Familiarisation of Miscellaneous commands
+
+Command/Shell script/Program name
+---------------------------------
+
+	uname
+	
+
+--------------------------------
+Output: 
+	
+	# Linux
+	
+
+-------------------
+Remarks if any:
+
+
+-------------------------------------
+-------------------------------------
+
+
+#4: Familirisaion of pross commands
+
+Command/Shell script/Program name
+---------------------------------
+
+	ps
+		
+
+--------------------------------
+Output: 
+	
+	# ps command prints the current processes.
+	
+	
+	
+-------------------
+Remarks if any:
+
+
+-------------------------------------
+-------------------------------------
+
+
+#5:
