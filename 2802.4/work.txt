@@ -9,7 +9,8 @@ cs18c20@192.168.0.30's password:
 Connected to 192.168.0.30.
 sftp> put temp0.txt
 Uploading temp0.txt to /home/cs18c20/temp0.txt
-temp0.txt                                     100%    0     0.0KB/s   00:00    
+
+temp0.txt                                     100%    0     0.0KB/s   00:00    
 sftp> exit
 ]0;s4c1@proxysrvr: ~/ceccs18c20/cs232/2802.4[01;32ms4c1@proxysrvr[00m:[01;34m~/ceccs18c20/cs232/2802.4[00m$ exit
 exit
