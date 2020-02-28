@@ -1,0 +1,28 @@
+CEC CS 18 C20
+Gopudas K.M
+Mac:00:24:81:1f:b8:a0
+
+---------------------------------
+
+#1: Ftp usage (t5)
+
+---------------------------------
+Command/Shell script/Program name
+---------------------------------
+	
+	sftp cs18c15@192.168.0.30
+	put file.txt
+	quit
+
+--------------------------------
+Output: or Input & Output (whichever is applicable)
+
+	# sftp cs18c15@192.168.0.30, connect to host 192.168.0.30 via sftp
+
+	# put file.txt, upload file.txt
+
+	# quit, quit current ftp session
+
+
+-------------------
+Remarks if any:
